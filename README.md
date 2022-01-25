@@ -8,6 +8,7 @@ In this report, we consider the relationship between migration and economic grow
 The data used in this study are as follows:
 - World Development Indicators, by the World Bank (https://databank.worldbank.org/reports.aspx?source=world-development-indicators)
 - Penn World Tables (http://www.ggdc.net/pwt)
+
 These two sources are combined to make the dataset referenced in this research report. That dataset is the file 'Final Dataset.xlsx' in this repository. The codebook to the dataset is also found in this repository with the filename 'codebook.pdf.'
 
 # Hypothesis and Research Design (snippets from the report)
